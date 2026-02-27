@@ -25,7 +25,7 @@ def get_hf_client():
         raise ValueError("HF_TOKEN not set in environment variables.")
 
     return InferenceClient(
-        model="mistralai/Mistral-7B-Instruct-v0.2",
+        model="Qwen/Qwen2.5-7B-Instruct",
         token=hf_token
     )
 
