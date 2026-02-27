@@ -14,7 +14,7 @@ The objective of this milestone was to:
 The system combines prompt engineering, model inference, and an interactive web interface to deliver personalized fitness plans.
 
 ##  Model Used
-Model Name: `google/flan-t5-large`
+Model Name: `Qwen/Qwen2.5-7B-Instruct`
 
 ### Why This Model?
 - Instruction-tuned Transformer model  
